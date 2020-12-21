@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>OnlyGky的博客</title>
   
   
   <link href="https://onlygky.github.io/atom.xml" rel="self"/>
   
   <link href="https://onlygky.github.io/"/>
-  <updated>2020-12-17T08:11:47.721Z</updated>
+  <updated>2020-12-21T06:19:24.014Z</updated>
   <id>https://onlygky.github.io/</id>
   
   <author>
@@ -17,33 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello</title>
-    <link href="https://onlygky.github.io/posts/3610a686.html"/>
-    <id>https://onlygky.github.io/posts/3610a686.html</id>
-    <published>2020-12-15T14:17:20.000Z</published>
-    <updated>2020-12-17T08:11:47.721Z</updated>
+    <title>在Linux中快速找到文件的几种方法</title>
+    <link href="https://onlygky.github.io/posts/25823baf.html"/>
+    <id>https://onlygky.github.io/posts/25823baf.html</id>
+    <published>2020-12-21T05:22:08.000Z</published>
+    <updated>2020-12-21T06:19:24.014Z</updated>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;测试我的第一篇文章&quot;&gt;&lt;a href=&quot;#测试我的第一篇文章&quot; class=&quot;headerlink&quot; title=&quot;测试我的第一篇文章&quot;&gt;&lt;/a&gt;测试我的第一篇文章&lt;/h2&gt;</summary>
+    <summary type="html">&lt;p&gt;本文主要用于介绍几种Linux常用的查找文件的方法&lt;/p&gt;
+&lt;h2 id=&quot;1-find&quot;&gt;&lt;a href=&quot;#1-find&quot; class=&quot;headerlink&quot; title=&quot;1. find&quot;&gt;&lt;/a&gt;1. find&lt;/h2&gt;&lt;p&gt;find命令是Linux在查找文件所在</summary>
       
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>关于博客的搭建</title>
-    <link href="https://onlygky.github.io/posts/148f8c92.html"/>
-    <id>https://onlygky.github.io/posts/148f8c92.html</id>
-    <published>2020-12-15T13:42:36.000Z</published>
-    <updated>2020-12-17T08:11:47.723Z</updated>
+    <category term="操作系统" scheme="https://onlygky.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
     
-    
-    
+    <category term="Linux" scheme="https://onlygky.github.io/tags/Linux/"/>
     
   </entry>
   
