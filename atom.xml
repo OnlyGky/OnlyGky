@@ -6,7 +6,7 @@
   <link href="https://onlygky.github.io/atom.xml" rel="self"/>
   
   <link href="https://onlygky.github.io/"/>
-  <updated>2020-12-21T06:20:29.347Z</updated>
+  <updated>2021-01-02T12:06:43.128Z</updated>
   <id>https://onlygky.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>OnlyGky--一名服务端开发工程师的校招面经总结</title>
+    <link href="https://onlygky.github.io/posts/65cb4ea4.html"/>
+    <id>https://onlygky.github.io/posts/65cb4ea4.html</id>
+    <published>2021-01-02T11:20:59.000Z</published>
+    <updated>2021-01-02T12:06:43.128Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;前言：Gk作为一名21年大学毕业的Java服务端开发工程师，从19年10月份-大三上-开始进行日常实习面试，期间获得小米、快手、领英、Tencent等offer，因疫情爆发无法准时入职，20年3月份春招成功进入Tencent实习-20-0320-09-，Tence</summary>
+      
+    
+    
+    
+    <category term="服务端开发" scheme="https://onlygky.github.io/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Java" scheme="https://onlygky.github.io/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>在Linux中快速找到文件的几种方法</title>
