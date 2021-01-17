@@ -6,7 +6,7 @@
   <link href="https://onlygky.github.io/atom.xml" rel="self"/>
   
   <link href="https://onlygky.github.io/"/>
-  <updated>2021-01-09T08:00:55.837Z</updated>
+  <updated>2021-01-17T11:07:18.655Z</updated>
   <id>https://onlygky.github.io/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我的学习笔记-Java服务端开发</title>
+    <link href="https://onlygky.github.io/posts/ca9803f.html"/>
+    <id>https://onlygky.github.io/posts/ca9803f.html</id>
+    <published>2021-01-15T03:20:38.000Z</published>
+    <updated>2021-01-17T11:07:18.655Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;从开始进入Java服务端的开发，到目前练习生时长已达三年，在这期间摸爬滚打也走了不少弯路，在此分享一下自己的一个学习历程，希望各位看官在Java服务端学习方面可以少走弯路。ps：不要听信什么年轻人可以多试错涨经验的鬼话，在精力和精神都是饱满状态的学习黄金时期，每一次错误在十</summary>
+      
+    
+    
+    
+    <category term="服务端开发" scheme="https://onlygky.github.io/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Java" scheme="https://onlygky.github.io/tags/Java/"/>
+    
+    <category term="个人" scheme="https://onlygky.github.io/tags/%E4%B8%AA%E4%BA%BA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>OnlyGky--一名服务端开发工程师的校招面经总结</title>
     <link href="https://onlygky.github.io/posts/65cb4ea4.html"/>
     <id>https://onlygky.github.io/posts/65cb4ea4.html</id>
     <published>2021-01-02T11:20:59.000Z</published>
-    <updated>2021-01-09T08:00:55.837Z</updated>
+    <updated>2021-01-09T16:09:07.245Z</updated>
     
     
       
